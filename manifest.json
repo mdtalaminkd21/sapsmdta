@@ -1,0 +1,15 @@
+{
+  "name": "SAPS MDTA Al-Amin",
+  "short_name": "SAPS MDTA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a085",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
